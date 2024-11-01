@@ -45,7 +45,7 @@ Input type | *Parameters*
 Server | **`localhost`**
 Authentication type | *SQL Login*
 User name | **`sa`**
-Password | Value of **`$MSSQL_SA_PASSWORD`** specified when running the container. Default: **`Password1234`**
+Password | Value of **`$MSSQL_SA_PASSWORD`** specified when running the container.<br/>Default: **`Password1234`**
 Encrypt | *Mandatory*
 Trust server certificate | **`True`**
 
