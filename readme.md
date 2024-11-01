@@ -36,7 +36,7 @@ setup completed
 2024-11-01 16:27:05.17 spid35s     The tempdb database has 8 data file(s).
 ```
 
-The database should be accessible in [Azure Data Studio]() with the following connection details:
+The database should be accessible in [Azure Data Studio](https://azure.microsoft.com/en-us/products/data-studio) with the following connection details:
 
 Parameter | Value
 ----------|------
